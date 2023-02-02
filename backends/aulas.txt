@@ -1,0 +1,1 @@
+serializers é como um serializador para saber qual cada campo deveria ser convertido
